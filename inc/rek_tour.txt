@@ -1,0 +1,3 @@
+INSERT INTO `rek_tour` (`id_rek_tur`, `no_rek_tur`, `rek_tur`) VALUES
+(1, 'A', 'Domestik'),
+(2, 'B', 'Internasional');

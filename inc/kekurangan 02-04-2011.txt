@@ -1,0 +1,16 @@
+KEKURANGAN AKUNTANSI
+
+*1. D/K pada rekening disesuaikan
+ (K = pendapatan, utang, modal, laba ditahan)
+*2. level admin
+*3. level cabang
+**4. design
+5. edit
+6. chart -> print chart
+7. neraca saldo (rugi-laba, modal, dll)
+8. buat superadmin bisa liat semua
+*9. search based on all
+*10. delete
+*11. access log
+
+(* Sudah) (** Rencana) ( Belum)

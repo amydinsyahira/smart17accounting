@@ -1,0 +1,11 @@
+INSERT INTO `rek_tiket` (`id_rek_tkt`, `no_rek_tkt`, `rek_tkt`) VALUES
+(1, 'A', 'Tiket Lion'),
+(2, 'B', 'Tiket Garuda'),
+(3, 'C', 'Tiket Batavia'),
+(4, 'D', 'Tiket Sriwijaya'),
+(5, 'E', 'Tiket Merpati'),
+(6, 'F', 'Tiket Airasia'),
+(7, 'G', 'Tiket Mandala'),
+(8, 'H', 'Tiket Citilink'),
+(9, 'I', 'Tiket Kereta Api'),
+(10, 'J', 'Tiket Kapal');
